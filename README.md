@@ -276,8 +276,8 @@ This project demonstrates:
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [@23bai70558](https://github.com/23bai70558)
+- Email: 23bai70558@cuchd.in
 
 ## 📄 License
 
